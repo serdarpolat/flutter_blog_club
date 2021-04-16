@@ -1,6 +1,14 @@
 # blog_app
 
-A new Flutter project.
+<img src="scr1.jpg" />
+<img src="scr2.jpg" />
+<img src="scr3.jpg" />
+<img src="scr4.jpg" />
+<img src="scr5.jpg" />
+<img src="scr6.jpg" />
+<img src="scr7.jpg" />
+<img src="scr8.jpg" />
+<img src="scr9.jpg" />
 
 ## Getting Started
 
